@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.aff97401.chunk.js": "./static/js/0.aff97401.chunk.js",
+    "static/js/0.aff97401.chunk.js.map": "./static/js/0.aff97401.chunk.js.map",
+    "static/js/1.031069c8.chunk.js": "./static/js/1.031069c8.chunk.js",
+    "static/js/1.031069c8.chunk.js.map": "./static/js/1.031069c8.chunk.js.map",
+    "main.js": "./static/js/main.53ad6700.chunk.js",
+    "main.js.map": "./static/js/main.53ad6700.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.68b4c51d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.68b4c51d.js.map",
+    "static/css/4.14956e47.chunk.css": "./static/css/4.14956e47.chunk.css",
+    "static/js/4.4db07b2b.chunk.js": "./static/js/4.4db07b2b.chunk.js",
+    "static/js/4.4db07b2b.chunk.js.map": "./static/js/4.4db07b2b.chunk.js.map",
+    "static/js/5.a6102538.chunk.js": "./static/js/5.a6102538.chunk.js",
+    "static/js/5.a6102538.chunk.js.map": "./static/js/5.a6102538.chunk.js.map",
+    "static/js/6.0a951551.chunk.js": "./static/js/6.0a951551.chunk.js",
+    "static/js/6.0a951551.chunk.js.map": "./static/js/6.0a951551.chunk.js.map",
+    "static/js/7.d1a2dc9d.chunk.js": "./static/js/7.d1a2dc9d.chunk.js",
+    "static/js/7.d1a2dc9d.chunk.js.map": "./static/js/7.d1a2dc9d.chunk.js.map",
+    "static/js/8.c20f2c10.chunk.js": "./static/js/8.c20f2c10.chunk.js",
+    "static/js/8.c20f2c10.chunk.js.map": "./static/js/8.c20f2c10.chunk.js.map",
+    "static/js/9.5c96f70c.chunk.js": "./static/js/9.5c96f70c.chunk.js",
+    "static/js/9.5c96f70c.chunk.js.map": "./static/js/9.5c96f70c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/4.14956e47.chunk.css.map": "./static/css/4.14956e47.chunk.css.map",
+    "static/js/4.4db07b2b.chunk.js.LICENSE.txt": "./static/js/4.4db07b2b.chunk.js.LICENSE.txt",
+    "static/js/5.a6102538.chunk.js.LICENSE.txt": "./static/js/5.a6102538.chunk.js.LICENSE.txt",
+    "static/js/9.5c96f70c.chunk.js.LICENSE.txt": "./static/js/9.5c96f70c.chunk.js.LICENSE.txt",
+    "static/media/inter.css": "./static/media/Inter.var.12cb9d0b.woff2",
+    "static/media/blue-loader.def91951.svg": "./static/media/blue-loader.def91951.svg",
+    "static/media/dropdown.87531686.svg": "./static/media/dropdown.87531686.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68b4c51d.js",
+    "static/css/4.14956e47.chunk.css",
+    "static/js/4.4db07b2b.chunk.js",
+    "static/js/main.53ad6700.chunk.js"
+  ]
+}
